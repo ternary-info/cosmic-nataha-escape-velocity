@@ -14,7 +14,6 @@
 ## 1. Prerequisites & Toolchain
 - `ffmpeg`
 - `python` v2.7
-- `convert` (from ImageMagick)
 - `mencoder` (optional for quick preview)
 
 ## 2. Step-by-Step Procedure
