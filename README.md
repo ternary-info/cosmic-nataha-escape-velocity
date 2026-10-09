@@ -6,7 +6,7 @@
 - **Maintainer:** Alexander "Shaos" Shabarshin
 - **Based on:** "SLOPCORE: ESCAPE VELOCITY" by anabology
   - [Original Music Video](https://www.youtube.com/watch?v=C3fxudvU-UU)
-  - [Source Files](https://drive.google.com/drive/folders/1aYcTHm00aY-Lk1lufsgSkXK-XJXWduMk)
+  - [Original Source Files](https://drive.google.com/drive/folders/1aYcTHm00aY-Lk1lufsgSkXK-XJXWduMk)
   - [SynthPop Cover Short Video](https://www.youtube.com/shorts/GLumMK8LmjE)
 
 [![ESCAPE VELOCITY SYNTH POP COVER](https://img.youtube.com/vi/GLumMK8LmjE/maxresdefault.jpg)](https://youtu.be/GLumMK8LmjE)
