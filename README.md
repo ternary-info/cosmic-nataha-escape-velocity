@@ -6,6 +6,7 @@
 - **Maintainer:** Alexander "Shaos" Shabarshin
 - **Based on:** "SLOPCORE: ESCAPE VELOCITY" by anabology
   - [Original Music Video](https://www.youtube.com/watch?v=C3fxudvU-UU)
+  - [Original Suno Song](https://suno.com/song/6fd3d3e2-8bd1-482e-8761-d970d7052f99)
   - [Original Source Files](https://drive.google.com/drive/folders/1aYcTHm00aY-Lk1lufsgSkXK-XJXWduMk)
   - [SynthPop Cover Short Video](https://www.youtube.com/shorts/GLumMK8LmjE)
 
@@ -14,7 +15,7 @@
 ## 1. Prerequisites & Toolchain
 - `ffmpeg`
 - `python` v2.7
-- `mencoder` (optional for quick preview)
+- `mencoder`,`mplayer` (optional for quick preview)
 
 ## 2. Step-by-Step Procedure
 ### Step 1
